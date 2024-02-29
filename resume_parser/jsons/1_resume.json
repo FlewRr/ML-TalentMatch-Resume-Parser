@@ -1,0 +1,55 @@
+{
+    "resume_id": 2,
+    "first_name": "aman",
+    "last_name": "yersultan",
+    "middle_name": "",
+    "birth_date": "",
+    "birth_date_year_only": "",
+    "country": "",
+    "city": "",
+    "about": "",
+    "key_skills": "",
+    "salary_expectations_amount": "",
+    "salary_expectations_currency": "",
+    "photo_path": "",
+    "gender": "",
+    "language": "",
+    "resume_name": "",
+    "source_link": "",
+    "contactItems": {
+        "resume_contact_item_id": 2,
+        "value": [
+            "assel.balamanova237@gmail.com"
+        ],
+        "comment": "",
+        "contact_type": 2
+    },
+    "educationItems": {
+        "resume_education_item_id": 2,
+        "year": "Feb 2019",
+        "organization": "FH Schmalkalden University of Applied Sciences",
+        "faculty": "",
+        "specialty": "",
+        "result": "",
+        "education_type": 4,
+        "education_level": 4
+    },
+    "experienceItems": {
+        "resume_experience_item_id": 1,
+        "starts": "Sep 2020",
+        "ends": "Present",
+        "employer": "Zero To One Labs",
+        "city": " KZ",
+        "url": "",
+        "position": "",
+        "description": "",
+        "order": ""
+    },
+    "languageItems": [
+        {
+            "resume_language_item_id": "",
+            "language": "",
+            "language_level": ""
+        }
+    ]
+}

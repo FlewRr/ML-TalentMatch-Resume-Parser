@@ -1,0 +1,6 @@
+dateparser==1.2.0
+docx2txt==0.8
+pdfminer.six==20231228
+sentence-transformers==2.4.0
+transformers==4.38.1
+tqdm==4.66.2

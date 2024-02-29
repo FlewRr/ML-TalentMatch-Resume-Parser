@@ -1,0 +1,55 @@
+{
+    "resume_id": 4,
+    "first_name": "elena",
+    "last_name": "gale",
+    "middle_name": "",
+    "birth_date": "",
+    "birth_date_year_only": "",
+    "country": "",
+    "city": "",
+    "about": "",
+    "key_skills": "",
+    "salary_expectations_amount": "",
+    "salary_expectations_currency": "",
+    "photo_path": "",
+    "gender": "",
+    "language": "",
+    "resume_name": "",
+    "source_link": "",
+    "contactItems": {
+        "resume_contact_item_id": 1,
+        "value": [
+            "+357 97 788000"
+        ],
+        "comment": "",
+        "contact_type": 1
+    },
+    "educationItems": {
+        "resume_education_item_id": 3,
+        "year": "2010",
+        "organization": "Computer Graphics & Design",
+        "faculty": "",
+        "specialty": "",
+        "result": "",
+        "education_type": 1,
+        "education_level": ""
+    },
+    "experienceItems": {
+        "resume_experience_item_id": "",
+        "starts": "",
+        "ends": "",
+        "employer": "",
+        "city": "",
+        "url": "",
+        "position": "",
+        "description": "",
+        "order": ""
+    },
+    "languageItems": [
+        {
+            "resume_language_item_id": "",
+            "language": "",
+            "language_level": ""
+        }
+    ]
+}

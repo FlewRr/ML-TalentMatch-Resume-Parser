@@ -1,0 +1,55 @@
+{
+    "resume_id": 5,
+    "first_name": "ANDREW",
+    "last_name": "MIRONOV",
+    "middle_name": "",
+    "birth_date": "",
+    "birth_date_year_only": "",
+    "country": "",
+    "city": "",
+    "about": "",
+    "key_skills": "",
+    "salary_expectations_amount": "",
+    "salary_expectations_currency": "",
+    "photo_path": "",
+    "gender": "",
+    "language": "",
+    "resume_name": "",
+    "source_link": "",
+    "contactItems": {
+        "resume_contact_item_id": 2,
+        "value": [
+            "cv@mail.me"
+        ],
+        "comment": "",
+        "contact_type": 2
+    },
+    "educationItems": {
+        "resume_education_item_id": "",
+        "year": "",
+        "organization": "",
+        "faculty": "",
+        "specialty": "",
+        "result": "",
+        "education_type": "",
+        "education_level": ""
+    },
+    "experienceItems": {
+        "resume_experience_item_id": "",
+        "starts": "",
+        "ends": "",
+        "employer": "",
+        "city": "",
+        "url": "",
+        "position": "",
+        "description": "",
+        "order": ""
+    },
+    "languageItems": [
+        {
+            "resume_language_item_id": "",
+            "language": "",
+            "language_level": ""
+        }
+    ]
+}
